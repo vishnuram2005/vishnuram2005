@@ -1,8 +1,8 @@
 ## Hi! I'm Vishnuram!
 
-🎓 III Year IT Student  
-💻 Passionate Web Developer  
-🚀 Currently working on Web Page for Personal Branding
+III Year IT Student  
+Passionate Web Developer  
+Currently working on Web Page for Personal Branding
 
 ##  Technical Skills
 - Programming : Python, Java
