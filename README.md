@@ -2,7 +2,7 @@
 
 🎓 III Year IT Student  
 💻 Passionate Web Developer  
-🚀 Currently working on Healthcare Website Project  
+🚀 Currently working on Web Page for Personal Branding
 
 ## 🔧 Technical Skills
 - HTML, CSS, JavaScript
@@ -11,10 +11,11 @@
 - Git & GitHub
 
 ## 📌 Projects
-- Healthcare Management System
+- Personal Branding
+- MediMeet Web Page
 - Portfolio Website
 - Mini Python Projects
 
 ## 📫 Connect With Me
-- LinkedIn: (your link)
-- Email: yourmail@gmail.com
+- LinkedIn: www.linkedin.com/in/vishnuramv20
+- Email: vvishnuram2005@gmail.com
