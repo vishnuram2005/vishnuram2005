@@ -26,5 +26,5 @@
 - Mini Python Projects
 
 ##  Connect With Me
-- LinkedIn: www.linkedin.com/in/vishnuramv20
-- Email: vvishnuram2005@gmail.com
+- LinkedIn : www.linkedin.com/in/vishnuramv20
+- Email : vvishnuram2005@gmail.com
