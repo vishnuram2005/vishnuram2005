@@ -10,6 +10,13 @@
 - MySQL, MongoDB
 - Git & GitHub
 
+##  Soft Skills
+- Teamwork & Collaboration
+- Leadership
+- Time Management
+- Effective Communication
+- Quick Learning
+
 ##  Projects
 - Personal Branding
 - MediMeet Web Page
