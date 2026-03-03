@@ -5,10 +5,12 @@
 🚀 Currently working on Web Page for Personal Branding
 
 ##  Technical Skills
-- HTML, CSS, JavaScript
-- Python, Java
-- MySQL, MongoDB
-- Git & GitHub
+- Programming : Python, Java
+- Web Technologies : HTML, CSS, JavaScript
+- Databases : MySQL, MongoDB
+- Tools & Platforms : GitHub, VS Code, Figma
+- Design Tools : Canva, Photoshop, CorelDRAW, Adobe Illustrator
+- Other : MS Office
 
 ##  Soft Skills
 - Teamwork & Collaboration
